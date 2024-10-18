@@ -1,0 +1,17 @@
+FROM    debian:bullseye
+
+RUN     apt-get update && apt-get -y upgrade && apt-get install -y curl sudo
+
+WORKDIR /app
+COPY ./site /app/
+RUN     curl -sL https://deb.nodesource.com/setup_16.x | sudo -E bash -
+
+RUN     apt-get install -y nodejs nodejs-legacy
+
+COPY    ./conf .
+
+RUN     npm init -y
+
+RUN     npm install express -y --save
+
+CMD     node index.js

@@ -1,2 +1,2 @@
 # inception
-![Alt text]([[./Untitled Diagram.drawio.png](https://github.com/ylamkhan/inception/blob/main/Untitled%20Diagram.drawio.png)](https://github.com/ylamkhan/inception/blob/main/images/Untitled%20Diagram.drawio.png))
+![Alt text](https://github.com/ylamkhan/inception/blob/main/images/Untitled%20Diagram.drawio.png)

@@ -588,7 +588,7 @@ website:
 
 ## Authors
 
-- **Youssef Lmkhantar** - *System Administrator* - [YourGithub](https://github.com/ylamkhan/)
+- **Youssef Lmkhantar** - *System Administrator* - [MyGithub](https://github.com/ylamkhan/)
 
 ---
 

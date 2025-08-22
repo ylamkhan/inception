@@ -503,6 +503,8 @@ inception/
             └── tools/
                 └── setup.sh
 ```
+### workflow
+![Alt text](https://github.com/ylamkhan/inception/raw/main/images/Untitled%20Diagram.drawio.png)
 
 ### Key Files
 
@@ -587,7 +589,7 @@ website:
 - [WordPress Security Guide](https://wordpress.org/support/article/hardening-wordpress/)
 
 
-![Alt text](https://github.com/ylamkhan/inception/raw/main/images/Untitled%20Diagram.drawio.png)
+
 
 ## Authors
 

@@ -586,6 +586,9 @@ website:
 - [SSL/TLS Configuration](https://ssl-config.mozilla.org/)
 - [WordPress Security Guide](https://wordpress.org/support/article/hardening-wordpress/)
 
+
+![Alt text](https://github.com/ylamkhan/inception/raw/main/images/Untitled%20Diagram.drawio.png)
+
 ## Authors
 
 - **Youssef Lmkhantar** - *System Administrator* - [MyGithub](https://github.com/ylamkhan/)
@@ -603,6 +606,3 @@ This project is part of the 1337 School curriculum and is intended for education
 ---
 
 *Built with Docker 🐳 at 1337 School*
-
-![Alt text](https://github.com/ylamkhan/inception/raw/main/images/Untitled%20Diagram.drawio.png)
-
